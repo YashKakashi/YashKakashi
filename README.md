@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YashKakashi
 - 👀 I’m interested in Software, Backend and Game Development
-- 🌱 I’m currently learning PHP, jQuery and there support techniques
-- 💞️ I’m looking to collaborate on software and game development projects using PHP, jQuery, C/C++/C# and JS
+- 🌱 I’m currently learning PHP, jQuery, Java and there support techniques
+- 💞️ I’m looking to collaborate on software and game development projects using PHP, jQuery, C/C++/C# and Java
 - 📫 Feel free to reach me at yashvardhan301@gmail.com and I will reach you :)
 
 <!---
